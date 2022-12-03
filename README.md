@@ -1,3 +1,13 @@
-# <h1 align="center"> 🐱 Catbot </h1>
-<p align="center"> 💻 Projeto simples em HTML e CSS, feito com a ajuda do tutorial da youtuber Rafaella Ballerini. </p>
-![image] (https://user-images.githubusercontent.com/119365652/205424710-1f62f1f9-60cb-4e60-9a39-8d47a5251c4f.png)
+# <h1>🤖 Catbot</h1>
+<p> Este projeto é uma landing page que apresenta um bot (fictício) para ser usado no Discord, o Catbot. Foi codado a partir de um tutorial postado no YouTube pela influenciadora Rafaella Ballerini, com algumas mudanças. </p>
+<br>
+
+<h2>💻 Linguagens Utilizadas</h2>
+
+<img height="50cm" src="https://user-images.githubusercontent.com/119365652/205425559-ce0315ed-870a-42ed-aa31-476fc8bebb10.png"/> <img height="50cm" src="https://user-images.githubusercontent.com/119365652/205426476-7dcc1e89-4aed-47e0-bf29-4250254e88d7.png"/>
+<br>
+<br>
+
+<h2>🖼 Resultado</h2>
+
+<img src="https://user-images.githubusercontent.com/119365652/205424929-1529ed1d-f8c7-47cd-9a8c-604985deb69b.png"/>
