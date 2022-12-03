@@ -1,4 +1,4 @@
-# <h1>🤖 Catbot</h1>
+<h1>🤖 Catbot</h1>
 <p> Este projeto é uma landing page que apresenta um bot (fictício) para ser usado no Discord, o Catbot. Foi codado a partir de um tutorial postado no YouTube pela influenciadora Rafaella Ballerini, com algumas mudanças. </p>
 <br>
 
