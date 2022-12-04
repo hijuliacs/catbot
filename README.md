@@ -4,7 +4,7 @@
 
 <h2>💻 Linguagens Utilizadas</h2>
 
-<img height="50cm" src="https://user-images.githubusercontent.com/119365652/205425559-ce0315ed-870a-42ed-aa31-476fc8bebb10.png"/> <img height="50cm" src="https://user-images.githubusercontent.com/119365652/205426476-7dcc1e89-4aed-47e0-bf29-4250254e88d7.png"/>
+<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="50cm" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <br>
 <br>
 
