@@ -1,5 +1,5 @@
 <h1>🤖 Catbot</h1>
-<p>👇🏻 click on the image to be redirect to the site!</p>
+<p>👇🏻 click on the image to go to the site!</p>
 <div>
 <a href="https://hijuliacs.github.io/catbot"/> <img src="https://user-images.githubusercontent.com/119365652/205424929-1529ed1d-f8c7-47cd-9a8c-604985deb69b.png"/>
 </div>
