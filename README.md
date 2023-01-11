@@ -6,7 +6,7 @@
 </br>
 
 <h2 align="center">Informações</h2>
-<p align="center">Esta landing page apresenta um bot fictício para o Discord criado por mim, o Catbot. Eu a codei a partir de um tutorial postado no canal da Rafaella Ballerini no YouTube, e fiz algumas mudanças para que o projeto não ficasse totalmente igual ao modelo proposto. Utilizei somente HTML e CSS e terminei tudo em, mais ou menos, 1 hora e meia.</p>
+<p align="center">Esta landing page apresenta um bot fictício para o Discord criado por mim, o Catbot. Eu a codei a partir de um tutorial postado no canal da Rafaella Ballerini no YouTube, e fiz algumas mudanças para que não ficasse tudo totalmente igual ao modelo proposto. Utilizei somente HTML e CSS e terminei tudo em, mais ou menos, 1 hora e meia.</p>
 <br>
 <div align="center">
 <img height="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img height="40cm" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
