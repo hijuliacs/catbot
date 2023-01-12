@@ -1,6 +1,6 @@
 <h1 align="center">Landing Page do Catbot</h1>
 <div align="center">
-<img height="400cm" src="https://user-images.githubusercontent.com/119365652/205827030-728ada33-64fa-4df8-b273-38cd8c1128dc.gif"/>
+<img height="400cm" src="https://user-images.githubusercontent.com/119365652/205827030-728ada33-64fa-4df8-b273-38cd8c1128dc.gif">
 </div>
 <br>
 </br>
